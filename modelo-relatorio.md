@@ -23,7 +23,7 @@ Etapa 2:
 Etapa 3: 
 - Instâncias SPOT do Amazon EC2
 - As instâncias spot do Amazon EC2 permitem aproveitar a capacidade não utilizada do EC2 na Nuvem AWS.
-- Através da utilização das instâncias SPOT, é possível ter um desconto de até 90% quando comparado com as instâncias sob demanda. Porém essas instâncias apenas são recomendadas caso houver flexibilidade quanto ao momento em que as aplicações serão executadas e se as aplicações podem ser interrompidas, tornando essa funcionalidade muito útil para a empresa, que pode utilizar essa função para trabalhar com big data e cargas de trabalho conteinerizadas. Também é possível combinar a utilização de instâncias SPOT com instâncias sob demanda, para ter diferentes tipos de possibilidades.
+- Através da utilização das instâncias SPOT, é possível ter um desconto de até 90% quando comparado com as instâncias sob demanda. Porém essas instâncias apenas são recomendadas caso houver flexibilidade quanto ao momento em que as aplicações serão executadas e se as aplicações podem ser interrompidas, tornando essa funcionalidade muito útil para a empresa, que pode utilizar essa função para trabalhar com big data e cargas de trabalho conteinerizadas. Também é possível combinar a utilização de instâncias SPOT com instâncias sob demanda, para ter mais possibilidades de trabalho.
 
 
 
