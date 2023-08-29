@@ -32,9 +32,9 @@ A implementação de ferramentas na empresa UConnect tem como esperado uma redu�
 
 ## Anexos
 
-https://aws.amazon.com/pt/ec2/spot/
-https://aws.amazon.com/pt/ec2/
-https://aws.amazon.com/pt/autoscaling/
+(https://aws.amazon.com/pt/ec2/spot/)
+(https://aws.amazon.com/pt/ec2/)
+(https://aws.amazon.com/pt/autoscaling/)
 
 Nome do Responsável pelo Projeto:
 Kaique Siqueira Meneguelli
